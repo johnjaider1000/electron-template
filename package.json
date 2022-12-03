@@ -1,6 +1,6 @@
 {
-  "name": "drager",
-  "productName": "drager",
+  "name": "electron-template",
+  "productName": "electron-template",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
