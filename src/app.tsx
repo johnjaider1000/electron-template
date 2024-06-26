@@ -16,6 +16,7 @@ interface MyAppProps {
   children?: any;
 }
 
+//@ts-ignore
 const App: React.FC<MyAppProps> = ({
   emotionCache = clientSideEmotionCache,
   children,
